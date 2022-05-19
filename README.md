@@ -10,7 +10,8 @@ yarn
 ```
 
 ## build
-```
+
+```bash
 yarn build
 ```
 
